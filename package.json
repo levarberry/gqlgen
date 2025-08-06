@@ -1,0 +1,11 @@
+{
+  "name": "@levarberry/gqlgen",
+  "version": "1.0.1",
+  "description": "GraphQL code generator for schema file templates. Generates scaffolding for .graphql files. Supports custom path and type generation.",
+  "bin": {
+    "gqlgen": "bin/gqlgen.js"
+  },
+  "keywords": ["graphql", "cli", "schema", "generator"],
+  "author": "Levar Berry",
+  "license": "MIT"
+}
