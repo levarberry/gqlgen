@@ -5,6 +5,10 @@
   "bin": {
     "gqlgen": "bin/gqlgen.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levarberry/gqlgen.git"
+  },
   "keywords": ["graphql", "cli", "schema", "generator"],
   "author": "Levar Berry",
   "license": "MIT"
